@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi 👋 I'm Jiya Singh
+🎓 B.Tech CSE (AI & ML) student  
+💻 Learning Python, C, C++  
+🤖 Exploring Machine Learning  
+🚀 Busy building my future  
 
-<!--
-**jiyasingh951s-arch/jiyasingh951s-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
+- Python  
+- C  
+- C++  
+- GitHub  
+- Machine Learning (Started exploring 🌱)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+Passionate about coding, AI, and solving problems. Always curious, always learning, and loving the journey!
