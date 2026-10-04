@@ -73,7 +73,17 @@
 > Right now, **DSA + C++** is my main focus, while I continue exploring AI/ML and building with GenAI.
 
 ---
+## 🌍 Open Source
 
+I enjoy contributing to real-world codebases where I can learn how software is structured, understand existing systems, and solve practical problems.
+
+### [Vicharanashala FLN](https://github.com/vicharanashala/fln)
+
+Currently contributing to an AI-powered foundational numeracy learning platform, working on issue-driven improvements and learning from a production-oriented codebase.
+
+My open-source journey also includes **Elite Coders Summer of Code 2026**, where I got hands-on experience with collaborative development and my first merged contribution.
+
+---
 ## 🚀 Featured Projects
 
 ### 🛍️ [Avelia Luxury — AI-Powered E-Commerce Platform](https://github.com/jiyasingh951s-arch/avelia-fashion)
@@ -114,19 +124,6 @@ An AI-powered health-information assistant prototype built for **Build with Bhar
 - ⚛️ React + TypeScript frontend with Gemini-powered AI logic
 
 ---
-
-## 🌍 Open Source
-
-I enjoy contributing to real-world codebases where I can learn how software is structured, understand existing systems, and solve practical problems.
-
-### [Vicharanashala FLN](https://github.com/vicharanashala/fln)
-
-Currently contributing to an AI-powered foundational numeracy learning platform, working on issue-driven improvements and learning from a production-oriented codebase.
-
-My open-source journey also includes **Elite Coders Summer of Code 2026**, where I got hands-on experience with collaborative development and my first merged contribution.
-
----
-
 ## 🏆 Learning Highlights
 
 - 🎓 **Problem Solving Through C++ Programming** — BodhiCoder Programme, IIT Bombay
@@ -137,22 +134,7 @@ My open-source journey also includes **Elite Coders Summer of Code 2026**, where
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jiyasingh951s-arch&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=jiyasingh951s-arch&hide_border=true" height="165"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiyasingh951s-arch&hide_border=true" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
