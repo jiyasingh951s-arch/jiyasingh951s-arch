@@ -1,15 +1,2 @@
-## Hi 👋 I'm Jiya Singh
-🎓 B.Tech CSE (AI & ML) student  
-💻 Learning Python, C, C++  
-🤖 Exploring Machine Learning  
-🚀 Busy building my future  
+[README2.md](https://github.com/user-attachments/files/33026814/README2.md)
 
-### Skills
-- Python  
-- C  
-- C++  
-- GitHub  
-- Machine Learning (Started exploring 🌱)
-
-### About Me
-Passionate about coding, AI, and solving problems. Always curious, always learning, and loving the journey!
